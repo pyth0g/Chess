@@ -1,1 +1,1 @@
-# A simple terminal chess game.
+# A simple chess game for the terminal.
